@@ -321,12 +321,19 @@ body {
   .sec-2 hr {
     width: 260px;
   }
+  .logo {
+    margin-bottom: 70px;
+    margin-top: -20px;
+  }
 }
 
 @media screen and (min-width: 1302px) {
   main {
     max-width: 1158px;
     margin: 0 auto;
+  }
+  .logo {
+    margin-bottom: 20px;
   }
 }
 /*# sourceMappingURL=style.css.map */
